@@ -40,7 +40,6 @@
     <Compile Include="routes\users.js" />
     <Compile Include="bin\www" />
     <Compile Include="sockets\base.js" />
-    <None Include="NodeChatApp.pubxml" />
     <Content Include="package.json" />
     <Content Include="public\css\bootstrap-theme.css" />
     <Content Include="public\css\bootstrap-theme.css.map" />
